@@ -49,4 +49,7 @@ function share31(){
     }
 }
 
-
+function ios() {
+  // Tab to edit
+  document.getElementById("mySidenav").style.width = "0";
+}
