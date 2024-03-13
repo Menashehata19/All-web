@@ -89,7 +89,7 @@ span{
 .Home{
 background: rgba(255, 255, 255, 0.4);
  width: 96%;
- height: 510px;
+ height: 480px;
  margin: auto;
  margin-top: 70px;
  border-radius: 20px;
@@ -165,17 +165,130 @@ a{
   color: white;
 }
 
-svg{
-  width: 50px;
+#Content{
+  background: rgba(255, 255, 255, 0.4);
+ width: 96%;
+ height: 650px;
+ margin: auto;
+ margin-top: 70px;
+ border-radius: 20px;
+ color: red;
+
+   -webkit-backdrop-filter: blur(20px);
+   backdrop-filter: blur(20px);
+
 }
 
-#flex1{
-  display: flex;
-  position: relative;
-  top: -100px;
-  justify-content: space-around ;
+.facebok{
+    background: black;
+  height: 70px;
+  border-radius: 40px;
+  color: white;
+
+  
 }
 
-#whatsapp{
-  justify-content: right;
+
+.transparent{
+    background: transparent;
+  height: 60px;
+  border-radius: 40px;
+  color: transparent;
+  
 }
+
+.facebok > p{
+
+padding-left: 30px;
+padding-top: 20px;
+font-size: 20px;
+}
+
+
+.whatsapp{
+    background: black;
+  height: 70px;
+  border-radius: 40px;
+  color: white;
+  margin-top: 55px;
+}
+
+.whatsapp > p{
+   padding-left: 30px;
+padding-top: 20px;
+font-size: 20px; 
+  
+}
+
+.instagram{
+    background: black;
+  height: 70px;
+  border-radius: 40px;
+  color: white;
+margin-top: 55px;
+  
+}
+
+.instagram p{
+   
+   padding-left: 30px;
+padding-top: 20px;
+font-size: 20px; 
+   
+}
+
+.Phone {
+    background: black;
+  height: 70px;
+  border-radius: 40px;
+  color: white;
+margin-top: 55px;
+  
+}
+
+.Phone p {
+  padding-left: 30px;
+padding-top: 20px;
+font-size: 20px;  
+}
+
+
+.Gmail {
+    background: black;
+  height: 70px;
+  border-radius: 40px;
+  color: white;
+margin-top: 55px;
+  
+}
+
+
+.Gmail p {
+  padding-left: 30px;
+padding-top: 20px;
+font-size: 20px;  
+}
+
+#About{
+  background: rgba(255, 255, 255, 0.4);
+ width: 96%;
+ height: 350px;
+ margin: auto;
+ margin-top: 70px;
+ border-radius: 20px;
+ color: red;
+
+   -webkit-backdrop-filter: blur(20px);
+   backdrop-filter: blur(20px);
+
+}
+
+
+#About p{
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  text-shadow: 10px 10px 20px #000000FC;
+}
+
+
